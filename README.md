@@ -1,2 +1,3 @@
 # My-Personal-Site
-My personal site for hack club stardance
+This is the personal site I made for hack club stardance! This site was made using html and css.
+My site has an image, a link, and a navbar using a /<div> tag
