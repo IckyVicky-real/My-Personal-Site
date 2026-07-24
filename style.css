@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+    color: mistyrose;
+    font-family: sans-serif;
+}
+
+img{
+    width: fit-content;
+}
+
+.navbar{
+    position: absolute;
+    height: 0%;
+    text-align: left;
+}
