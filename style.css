@@ -19,3 +19,9 @@ img{
 h1{
     font-style: italic;
 }
+
+.contact{
+    position: absolute;
+    height: 0%;
+    text-align: center;
+}
