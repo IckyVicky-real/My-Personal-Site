@@ -6,11 +6,16 @@ body{
 }
 
 img{
-    width: fit-content;
+   max-width: 500px;
+    height: auto;
 }
 
 .navbar{
     position: absolute;
     height: 0%;
     text-align: left;
+}
+
+h1{
+    font-style: italic;
 }
